@@ -2,7 +2,7 @@
  - 🔭 I’m currently working on [ludownloader](https://github.com/lur1an/ludownloader), [homepage](https://github.com/lur1an/lurian.xyz)
  - ⚡ I have a [blog](https://lurian.xyz) with nothing on it! (yet)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lur1an&layout=donut&hide=css,scss)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lur1an&layout=donut&hide=css,scss&exclude_repo=dotfiles)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Frontend
 <div>
