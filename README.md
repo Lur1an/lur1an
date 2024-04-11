@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Lurian
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lur1an&layout=donut&hide=css,scss&exclude_repo=dotfiles)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lur1an&layout=donut&hide=css,scss,nix&exclude_repo=dotfiles)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Frontend
 <div>
