@@ -2,12 +2,6 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lur1an&layout=donut&hide=css,scss,nix&exclude_repo=lurian.nix,dotfiles)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Frontend
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TS" **alt="TS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" title="Svelte" **alt="Nextjs" width="40" height="40"/>
-</div>
-
 #### Backend
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" height="40"/>
