@@ -1,7 +1,4 @@
 ### Hi there 👋, I'm Lurian
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lur1an&layout=donut&hide=css,scss,nix&exclude_repo=lurian.nix,dotfiles)](https://github.com/anuraghazra/github-readme-stats)
-
 #### Backend
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" height="40"/>
